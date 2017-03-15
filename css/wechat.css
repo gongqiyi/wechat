@@ -1,0 +1,14 @@
+.title{
+	text-align: center;
+	margin-top: -20px;
+}
+footer{
+	width: 100vw;
+	display: flex;
+	justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+}
+footer div{
+display: inline-block;
+}
